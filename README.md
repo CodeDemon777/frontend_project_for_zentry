@@ -11,14 +11,15 @@ Certainly! Below is a professional and well-structured `README.md` file template
 ## 📌 Table of Contents
 
 1. [Overview](#overview)
-2. [Features](#features)
-3. [Tech Stack](#tech-stack)
-4. [Installation Guide](#installation-guide)
-5. [Project Structure](#project-structure)
-6. [Deployment](#deployment)
-7. [Contributing](#contributing)
-8. [Credits](#credits)
-9. [License](#license)
+2. [Live Demo](#liveDemo)
+3. [Features](#features)
+4. [Tech Stack](#tech-stack)
+5. [Installation Guide](#installation-guide)
+6. [Project Structure](#project-structure)
+7. [Deployment](#deployment)
+8. [Contributing](#contributing)
+9. [Credits](#credits)
+10. [License](#license)
 
 ---
 
@@ -33,9 +34,7 @@ This repository contains the source code for the Zentry website, built with mode
 Visit the live version of the website here:
 Netlify Status
 
-Or click the button below:
-
-<a href="https://genuine-quokka-19d30e.netlify.app/ " target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-brightgreen?style=for-the-badge " alt="Live Demo"></a>
+<a href="https://[genuine-quokka-19d30e.netlify.app](https://award-winning-wesite.netlify.app/)/ " target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-brightgreen?style=for-the-badge " alt="Live Demo"></a>
 
 ## ✨ Features
 
