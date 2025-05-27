@@ -34,7 +34,7 @@ This repository contains the source code for the Zentry website, built with mode
 Visit the live version of the website here:
 Netlify Status
 
-<a href="https://[genuine-quokka-19d30e.netlify.app](https://award-winning-wesite.netlify.app/)/ " target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-brightgreen?style=for-the-badge " alt="Live Demo"></a>
+<a href="https://[https://award-winning-wesite.netlify.app/]/ " target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-brightgreen?style=for-the-badge " alt="Live Demo"></a>
 
 ## ✨ Features
 
