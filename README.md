@@ -29,6 +29,13 @@ Zentry's website is a cutting-edge digital experience crafted to win accolades o
 This repository contains the source code for the Zentry website, built with modern web technologies and optimized for speed, accessibility, and responsiveness.
 
 ---
+🚀 Live Demo
+Visit the live version of the website here:
+Netlify Status
+
+Or click the button below:
+
+<a href="https://genuine-quokka-19d30e.netlify.app/ " target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-brightgreen?style=for-the-badge " alt="Live Demo"></a>
 
 ## ✨ Features
 
