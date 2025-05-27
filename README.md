@@ -150,7 +150,7 @@ Please ensure your code adheres to our coding standards and includes appropriate
 
 - **Design Inspiration**: [Awwwards](https://youtu.be/zA9r5zTllx4?feature=shared)
 - **Animations**: [GSAP](https://greensock.com/)
-- **Icons**: [Font Awesome](https://fontawesome.com/) or [Material Icons](https://material.io/icons/)
+- **Icons**: [Material Icons](https://material.io/icons/)
 - **Images**: [Unsplash](https://unsplash.com/)
 
 ---
